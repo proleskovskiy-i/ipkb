@@ -49,3 +49,4 @@ Temporary Items
 # backup pcb folders
 asket-ortho-4x12/PCB/Asket-backups/
 *backups/
+refs/
